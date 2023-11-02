@@ -16,7 +16,7 @@
 I am a Full Stack Developer at Thoughtworks in Gurgaon, India.
 </h4>
 
-- 🚀 Looking for opportunities to build my carrier that would help me in achieving greater practical excellence in software industry, exceptional with hardworking nature along with good communication skill to explore the requirements and come up with innovative solution.
+- 🚀 Looking for opportunities to build my career that would help me in achieving greater practical excellence in software industry, exceptional with hardworking nature along with good communication skill to explore the requirements and come up with innovative solution.
 
 <h3>
 Find me on
